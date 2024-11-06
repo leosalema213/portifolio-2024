@@ -2,7 +2,7 @@ import Lottie from "lottie-react";
 import animationData from "../../assets/animation1.json";
 import animationData2 from "../../assets/animation2.json";
 
-import "./hero.css";
+import "./Hero.css";
 
 export const Hero = () => {
   return (
