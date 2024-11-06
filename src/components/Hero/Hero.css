@@ -1,0 +1,13 @@
+.animations {
+  position: relative;
+  display: flex;
+  justify-content: start;
+  align-items: start;
+}
+
+.animation{
+  position: absolute;
+  z-index: 2;
+  left: 16%;
+  bottom: 60px;
+}

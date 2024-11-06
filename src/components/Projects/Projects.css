@@ -1,0 +1,9 @@
+.card {
+  cursor: pointer;
+
+  & img {
+    border-bottom: 4px solid #68aee8;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+  }
+}

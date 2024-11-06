@@ -1,0 +1,12 @@
+.link svg {
+  color: #5a5555;
+  font-size: 32px;
+  transition: 0.3s ease-in-out;
+  cursor: pointer;
+  
+  &:hover {
+    color: #68aee8;
+    transition: 0.3s ease-in-out;
+    scale: 1.2;
+  }
+}
